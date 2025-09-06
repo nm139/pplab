@@ -1,8 +1,8 @@
 # TO CLONE THE REPO USE THE FOLLOWING COMMAND
-git clone https://github.com/nm139/pplab.git
+    git clone https://github.com/nm139/pplab.git
 
 # THEN CHANGE DIRECTORY TO THE INSTALLED REPO
-cd pplab
+    cd pplab
 
 # SELECT THE REQUIRED PROGRAM FILE AND USE IT
 
